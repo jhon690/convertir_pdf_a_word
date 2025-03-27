@@ -26,6 +26,10 @@ word_ruta =
 
 .venv\scripts\activate
 
-5. ejecutar el proyecto
+5. Instarlar las librerias
+
+pip install -r requeriments.txt
+
+6. ejecutar el proyecto
 
 python main.py
